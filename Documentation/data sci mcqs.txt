@@ -1,0 +1,314 @@
+⭐ WEEK 01 – Data Science Introduction MCQs
+MCQs (25)
+
+Data Science mainly focuses on:
+a) Collecting data only
+b) Extracting insights from data ✔
+c) Making websites
+d) Creating operating systems
+
+Which company uses data science for recommendations?
+a) WhatsApp
+b) Netflix ✔
+c) Chrome
+d) VLC
+
+Which field is NOT influenced by Data Science?
+a) Healthcare
+b) Finance
+c) Entertainment
+d) Grammar checking ✔
+
+The biggest challenge in Data Science today is:
+a) Data shortage
+b) Incrementalism ✔
+c) Too many algorithms
+d) None
+
+Fraud detection is an application of:
+a) Marketing
+b) Finance ✔
+c) Sports
+d) Education
+
+Which role builds and trains ML models?
+a) Data Analyst
+b) ML Engineer ✔
+c) Web Developer
+d) Architect
+
+Which role focuses on ethics of AI?
+a) Data Engineer
+b) AI Ethicist ✔
+c) ML Engineer
+d) Data Scientist
+
+Which role maintains data pipelines?
+a) Data Scientist
+b) Data Engineer ✔
+c) AI Researcher
+d) Tester
+
+Which role requires a PhD mostly?
+a) ML Engineer
+b) AI Research Scientist ✔
+c) Data Analyst
+d) Data Engineer
+
+MLOps mainly deals with:
+a) Data cleaning
+b) Deployment ✔
+c) Visualization
+d) Web scraping
+
+Which tool comes with Anaconda?
+a) Photoshop
+b) Jupyter Notebook ✔
+c) Adobe XD
+d) MS Word
+
+Anaconda is used for:
+a) Gaming
+b) Package management ✔
+c) Video editing
+d) None
+
+Data Science workflow begins with:
+a) Cleaning
+b) Model evaluation
+c) Problem definition ✔
+d) Reporting
+
+EDA stands for:
+a) Exploratory Data Analysis ✔
+b) Expert Data Assessment
+c) Exact Data Algebra
+d) None
+
+Feature engineering does what?
+a) Creates new features ✔
+b) Deletes all columns
+c) Formats text
+d) None
+
+Model evaluation uses:
+a) Titles
+b) Accuracy ✔
+c) While loops
+d) HTML
+
+Predictive maintenance is used in:
+a) Hospitals
+b) Manufacturing ✔
+c) Teaching
+d) Agriculture
+
+Which is a structured data file?
+a) PNG
+b) CSV ✔
+c) MP3
+d) JPEG
+
+Which database is NoSQL?
+a) MySQL
+b) Oracle
+c) MongoDB ✔
+d) PostgreSQL
+
+Web scraping is done using:
+a) BeautifulSoup ✔
+b) Gmail
+c) WordPress
+d) WhatsApp
+
+⭐ WEEK 02 – Python Basics MCQs (30)
+
+Python is:
+a) Low-level language
+b) High-level language ✔
+c) Machine code
+d) Assembly only
+
+Python uses ____ for blocks.
+a) {}
+b) []
+c) ()
+d) Indentation ✔
+
+Which is a float?
+a) 12
+b) 12.5 ✔
+c) “12”
+d) False
+
+print(3 ** 2) gives:
+a) 6
+b) 9 ✔
+c) 3
+d) 5
+
+input() returns data as:
+a) Integer
+b) Float
+c) String ✔
+d) Boolean
+
+Which is NOT a data type?
+a) int
+b) bool
+c) float
+d) real ✔
+
+Range(5) prints:
+a) 1-5
+b) 0-4 ✔
+c) 5-10
+d) Only 5
+
+A list is:
+a) Immutable
+b) Ordered ✔
+c) No duplicates
+d) None
+
+Tuple is:
+a) Mutable
+b) Immutable ✔
+c) Editable
+d) None
+
+Dictionary stores:
+a) Only values
+b) Only keys
+c) Key-value pairs ✔
+d) Integers only
+
+set allows:
+a) Duplicates
+b) No duplicates ✔
+c) Ordered elements
+d) Sorted elements
+
+def keyword is used to:
+a) Delete file
+b) Define function ✔
+c) Define loop
+d) None
+
+return gives:
+a) Output back ✔
+b) Error
+c) Loop
+d) Variable
+
+Which is a logical operator?
+a) and ✔
+b) plus
+c) equals
+d) power
+
+break exits:
+a) Python
+b) Loop ✔
+c) Function
+d) File
+
+⭐ WEEK 03 – Data Acquisition & Preprocessing MCQs (20)
+
+Pandas uses:
+a) Series & DataFrame ✔
+b) Arrays only
+c) Tuples only
+d) None
+
+df.head() shows:
+a) Last rows
+b) First 5 rows ✔
+c) Middle rows
+d) Random rows
+
+Missing values are checked using:
+a) df.missing()
+b) df.nulls()
+c) df.isnull() ✔
+d) df.clean()
+
+Outliers can be found using:
+a) HTML
+b) IQR ✔
+c) CSS
+d) GPU
+
+Scaling is used to:
+a) Resize images
+b) Normalize data ✔
+c) Delete rows
+d) Convert to string
+
+Which encoding converts categories into columns?
+a) Label encoding
+b) One-hot encoding ✔
+c) Ordinal encoding
+d) Binary encoding
+
+Feature engineering means:
+a) Dropping rows
+b) Creating new features ✔
+c) Copying CSV
+d) None
+
+StandardScaler produces:
+a) 0-1 range
+b) Mean 0, std 1 ✔
+c) Random numbers
+d) None
+
+⭐ WEEK 04 – EDA & Visualization MCQs (20)
+
+Matplotlib is used for:
+a) Web scraping
+b) Plotting graphs ✔
+c) Cleaning data
+d) Math only
+
+plt.plot() creates:
+a) Histogram
+b) Scatter
+c) Line plot ✔
+d) Bar chart
+
+plt.scatter() creates:
+a) Bar
+b) Pie
+c) Scatter plot ✔
+d) Line
+
+Mean formula is:
+a) Middle value
+b) Total/Count ✔
+c) Highest value
+d) Lowest value
+
+Median is:
+a) Most frequent
+b) Middle value ✔
+c) Average
+d) None
+
+Mode is:
+a) Most frequent ✔
+b) Smallest
+c) Average
+d) None
+
+sns.histplot() creates:
+a) Histogram ✔
+b) Scatter
+c) Pie
+d) None
+
+Correlation heatmap uses:
+a) seaborn ✔
+b) Jupyter
+c) pandas
+d) numpy
