@@ -1,8 +1,10 @@
-using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using website.Models;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
+using Website.Models;
 
-namespace website.Controllers
+namespace Website.Controllers
 {
     public class HomeController : Controller
     {
@@ -13,7 +15,21 @@ namespace website.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+       
+        public IActionResult landingpage()
+        {
+            return View();
+        }
+        //hr dashboard
+        [Authorize(Roles = "HR")]
+        public IActionResult Hrdashboard()
+        {
+            return View();
+        }
+
+        //manager dashboard
+        [Authorize(Roles = "Manager")]
+        public IActionResult managerdash()
         {
             return View();
         }
