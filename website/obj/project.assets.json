@@ -8631,11 +8631,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\L380\\Desktop\\Webster-Org\\Website\\Website.csproj",
+      "projectUniqueName": "C:\\Users\\L380\\Desktop\\webster-organization\\Website\\Website.csproj",
       "projectName": "Website",
-      "projectPath": "C:\\Users\\L380\\Desktop\\Webster-Org\\Website\\Website.csproj",
+      "projectPath": "C:\\Users\\L380\\Desktop\\webster-organization\\Website\\Website.csproj",
       "packagesPath": "C:\\Users\\L380\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\L380\\Desktop\\Webster-Org\\Website\\obj\\",
+      "outputPath": "C:\\Users\\L380\\Desktop\\webster-organization\\Website\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
